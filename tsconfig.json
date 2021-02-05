@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist",
+		"module": "commonjs",
+		"esModuleInterop": true,
+		"resolveJsonModule": true,
+		"target": "es2017",
+		"strict": true,
+		"skipLibCheck": true,
+		"inlineSourceMap": true,
+		"forceConsistentCasingInFileNames": true
+	},
+	"include": ["src/index.ts"]
+}
